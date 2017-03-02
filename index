@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<link rel="stylesheet" type"text/css" href="StyleSheet.css"/>
+</head>
+<body style="background-color:#166BAA">
+
+<img src="logo.jpg" id="logo"/>
+
+<ul>
+  <li><a class="active" href="index">Home</a></li> 
+  <li><a href="about.html">About</a></li>
+  <li><a href="#portfolio">Portfolio</a></li>
+  <li><a href="#resume">Resume</a></li>
+  <li style="float:right"><a href="#contact">Contact</a></li>
+</ul>
+<div id="square1"></div>
+testTEST
+<div id="square2"></div>
+
+</body>
+</html>
+<img src="logo.jpg" id="logo"/>
+<div class="nav-bar">
+<ul>
+  <li><a href="home.html">Home</a></li> 
+  <li><a class="active" href="about.html">About</a></li>
+  <li><a href="portfolio.html">Portfolio</a></li>
+  <li><a href="resume.html">Resume</a></li>
+  <li style="float:right"><a href="contact.html">Contact</a></li>
+</ul></div>
