@@ -1,3 +1,14 @@
+
+@media only screen and (max-width: 500px) {
+    body {
+        font-size: 1.625em;
+    }
+    .nav-bar {
+    	font-size: .2em;
+    	
+ 
+}
+    }
 /*Navigation*/
 .nav-bar {
 	list-style-type: none;
@@ -169,6 +180,9 @@ img { width: 100%;}
   position: absolute;
   top: -2px;
   left: 0px;
+}
+
+
 }
 /*big ol squares*/
 
